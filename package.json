@@ -1,0 +1,6 @@
+{
+  "name": "pi-hermes-skills",
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
